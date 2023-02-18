@@ -1,0 +1,38 @@
+.sınıf1{
+    text-align: center;
+    font-size: 64px;
+    font-family: fantasy;
+    color: blue;
+}
+.sınıf2{
+    list-style-position: inside;
+    text-align:center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: red;
+}
+.info{
+   
+   position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: red;
+}
+.contact{
+    position: relative;
+    text-align:center;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: red;
+}
+.contact2{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: brown;
+}
+.info2{
+    font-size: 30px;
+    font-family: sans-serif;
+    color: brown;
+}
